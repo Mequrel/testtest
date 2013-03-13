@@ -8,7 +8,7 @@ class TextDrawer:
 		pass
 
 	def draw(self, text):
-		pass
+		xxxxx
 
 text = getText()
 font = FontLoader().loadFont('fancyFont/')
